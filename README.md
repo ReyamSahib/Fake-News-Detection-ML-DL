@@ -1,9 +1,6 @@
 # Fake-News-Detection-ML-DL
 Fake News Detection using Machine Learning and Deep Learning
 
-# Fake News Detection using Machine Learning and Deep Learning
-
-
 This project compares machine learning and deep learning techniques for classifying news articles as fake or real.
 
 ## Team Contribution
