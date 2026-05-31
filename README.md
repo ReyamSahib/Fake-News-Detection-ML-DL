@@ -55,3 +55,9 @@ They have been omitted to:
 - Keep the repository focused on the implementation and methodology
 
 To run the notebook, place the required dataset files in the project directory before execution.
+
+## Notebook Notice
+
+The original Google Colab notebook is included in this repository as `Fake_News_Detection.ipynb`.
+
+If GitHub does not render the notebook preview, the project code is also available in `fake_news_detection.py`, and the full methodology/results are available in `Fake-News-Project-Report.pdf`.
